@@ -3,14 +3,13 @@ layout:     post
 title:      Wind, sand, and stars
 subtitle:   Antoine de Saint-Exupéry
 date:       2024-02-11
-author:    
+author:    Hui
 header-img: img/wind.jpg
 catalog: true 						
 tags:						
 - Books
 ---
 
-###
 > If a person works only for material goods, then he constructs his own prison. 
 > The fleeting wealth offers us nothing truly worth living for, only isolation. 
 > I search through my memories for moments that linger sweetly, moments unforgettable. 
